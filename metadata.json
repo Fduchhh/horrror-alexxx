@@ -1,0 +1,6 @@
+{
+  "name": "Психбольница: Темный Побег (Horror Survival 3D)",
+  "description": "Атмосферный 3D хоррор от первого лица в заброшенной психиатрической больнице. Прячьтесь в шкафах от чудовищ, ищите ключи и выживайте с реалистичным звуком и графикой.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
